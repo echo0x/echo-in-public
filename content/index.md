@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Main place
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Here is the start of your journey
+Go to [[content/Public notes/index|index]]
